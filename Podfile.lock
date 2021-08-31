@@ -1,0 +1,18 @@
+PODS:
+  - MintegralAdSDK (6.4.1.0):
+    - MintegralAdSDK/NativeAd (= 6.4.1.0)
+  - MintegralAdSDK/NativeAd (6.4.1.0)
+
+DEPENDENCIES:
+  - MintegralAdSDK
+
+SPEC REPOS:
+  trunk:
+    - MintegralAdSDK
+
+SPEC CHECKSUMS:
+  MintegralAdSDK: e55adc8316b455e3c5702fcafbb4dace785fb42c
+
+PODFILE CHECKSUM: c5bf1c2d0aa83ab94aa6c81a17bcb9ce8bf811c6
+
+COCOAPODS: 1.9.3
